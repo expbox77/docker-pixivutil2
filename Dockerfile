@@ -21,6 +21,7 @@ RUN apk add \
     python3-dev \
     bash \
     nano \
+    ffmpeg \
     && \
     ln -sf python3 /usr/bin/python
 
